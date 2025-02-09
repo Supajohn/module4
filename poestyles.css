@@ -3,7 +3,7 @@ body{
    } 
 
 body{
-    background-image: url(tombstone.png); /* Picture is a tombstone. */
+    background-image: url(https://github.com/Supajohn/module4/tombstone.png); /* Picture is a tombstone. */
     background-repeat: no-repeat;
     background-position: left;
 }
